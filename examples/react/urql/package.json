@@ -14,7 +14,7 @@
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.10",
     "@graphql-codegen/cli": "^3.2.1",
-    "@graphql-codegen/client-preset": "^2.1.0",
+    "@graphql-codegen/client-preset": "^2.1.1",
     "typescript": "4.9.5",
     "serve": "14.2.0",
     "cypress": "12.6.0",

@@ -1,5 +1,12 @@
 # @graphql-codegen/typed-document-node
 
+## 3.0.2
+
+### Patch Changes
+
+- Updated dependencies [[`b343626c9`](https://github.com/dotansimha/graphql-code-generator/commit/b343626c978b9ee0f14e314cea6c01ae3dad057c)]:
+  - @graphql-codegen/visitor-plugin-common@3.0.2
+
 ## 3.0.1
 
 ### Patch Changes
